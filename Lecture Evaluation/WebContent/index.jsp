@@ -26,9 +26,9 @@
 						member management
 					</a>	
 					<div class="dropdown-menu" aria-labelledby="dropdown">
-						<a class="drdropdown-item" href="#">login</a>
-						<a class="drdropdown-item" href="#">sign up</a>
-						<a class="drdropdown-item" href="#">logout</a>
+						<a class="drdropdown-item" href="userLogin.jsp">login</a>
+						<a class="drdropdown-item" href="userRegister.jsp">sign up</a>
+						<a class="drdropdown-item" href="userLogout.jsp">logout</a>
 					</div>
 				</li>
 			</ul>
